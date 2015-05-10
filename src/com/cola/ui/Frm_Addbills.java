@@ -160,7 +160,7 @@ public class Frm_Addbills extends Activity implements OnClickListener {
 		case 5:
 			  new AlertDialog.Builder(this) 
 			    .setTitle("ColaBox") 
-			    .setMessage("作者:UntosiL Email:untosil@gmail.com Blog:blog.csdn.net/untosil") 
+			    .setMessage("作者:李子龙    智能设备软件开发实训课程作业     2015年上半年制") 
 			    .show();
 			return true;
 		}

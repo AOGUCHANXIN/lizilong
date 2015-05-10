@@ -4,7 +4,9 @@
     android:layout_height="fill_parent" android:layout_width="fill_parent">
 <LinearLayout 
 android:id="@+id/LinearLayout01" 
-xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_height="fill_parent" android:layout_width="fill_parent">
+android:orientation="vertical"
+android:layout_height="fill_parent" 
+android:layout_width="fill_parent">
 	<LinearLayout android:id="@+id/layouthead" 
 	android:background="#ffCded8b" android:layout_height="fill_parent" android:layout_width="fill_parent" android:focusable="true" android:clickable="true" android:focusableInTouchMode="true" android:keepScreenOn="true">	
 	 	<TextView android:id="@+id/item1" android:layout_height="fill_parent"  
